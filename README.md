@@ -1,2 +1,2 @@
 # SensView IoT
-## Your IoT's Not Just Data Collective - An Open IoT SaaS Platform
+## Your Sensor's Data is "NOT JUST DATA"
